@@ -9,15 +9,15 @@
 1. A self-motivated and result-driven IT professional with extensive experience in process - design, development, testing, release process and maintenance
 
 ## Techinical Expertise
-- Language
+- Languages
   - C/C++
   - JAVA
   - JavaScript
-- Platform
+- Platforms
   - Linux/Unix
   - Android
   - Win32
-- Specification
+- Specifications
   - HTML5, CSS3, JavaScript
   - DLNA
   - OPEN GL(ES)
